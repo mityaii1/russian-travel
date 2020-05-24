@@ -1,0 +1,12 @@
+@import url(./_text/place__paragraph_text.css);
+.place__paragraph{
+    grid-column: 2;
+    grid-row: 2;
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .place__paragraph{
+    grid-column: 1;
+    grid-row: 3;
+    }
+}
+
