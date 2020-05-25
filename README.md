@@ -10,5 +10,5 @@
 
 **Ссылка на проект**
 
-* [Ссылка на проект GitHub]()
+* [Ссылка на проект на GitHub](https://mityaii1.github.io/russian-travel/)
 
