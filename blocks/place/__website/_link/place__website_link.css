@@ -1,6 +1,7 @@
 .place__website_link{
     font-size: 18px;
     line-height: 122%;
+    font-weight: 400;
     text-decoration-line: underline;
     color: #FFFFFF;
 }

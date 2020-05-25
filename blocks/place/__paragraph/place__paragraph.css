@@ -1,4 +1,5 @@
 @import url(./_text/place__paragraph_text.css);
+
 .place__paragraph{
     grid-column: 2;
     grid-row: 2;
